@@ -1,0 +1,30 @@
+.box1 {
+  display: flex;
+  justify-content: center;
+  height: 60px;
+  width: auto;
+  float: top;
+}
+.box2 {
+  display: flex;
+  justify-content: flex-end;
+  height: 250px;
+  background-color: black;
+  float: right;
+  margin-right: 250px;
+}
+.box3 {
+  font-size: large;
+  justify-content: center;
+  margin-left: 100px;
+}
+.box4 {
+  font-size: large;
+  justify-content: center;
+  margin-left: 100px;
+}
+.box5 {
+  font-size: large;
+  justify-content: center;
+  margin-left: 100px;
+}
